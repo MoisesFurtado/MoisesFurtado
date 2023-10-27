@@ -1,26 +1,20 @@
-<div align="center">
+## Olá! Eu sou o Moisés Furtado 🖐️
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=30&duration=3000&pause=1000&color=CCDBE4&center=true&vCenter=true&width=500&height=60&lines=Hey+I'm+Moisés;26+years+old;fivem+dev;still+learing+the+basic)](https://git.io/typing-svg)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/moises_furtado__22)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/furtado__22)
 
-##
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=MoisesFurtado&show_icons=true&theme=dracula&count_private=true)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoisesFurtado&show_icons=true&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
-      
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MoisesFurtado&layout=compact&langs_count=7&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
-    
-## Skills:
-        
-<img style="border-radius: 10px;" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-      
-## Socials:
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
+## Tecnologias que eu uso no meu dia a dia
 
-</div>
+<div style="display: inline_block">
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img align="center" alt="lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+</div><br/>
+
+Apaixonado por tecnologia.
